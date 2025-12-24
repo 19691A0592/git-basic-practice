@@ -12,6 +12,7 @@ let indianWatch = () => {
 setInterval(indianWatch, 1000);
 
 // USA Watch
+// USA Updated By Mohan
 let usaDate = document.querySelector("#usa-date");
 let usaTime = document.querySelector("#usa-time");
 let usaWatch = () => {
